@@ -1,0 +1,23 @@
+.container{
+    max-width: 70vw;
+    min-width: 60vh;
+    margin: auto;
+    background-color: antiquewhite;
+    border: 2px solid red;
+}
+.box{
+ max-width: 200px;
+ min-height: 200px;
+ background-color: aqua;
+ margin: 8px;
+ box-shadow: 10px 20px red;
+ box-shadow: 10px 12px 10px red;
+ box-shadow: inset 10px 12px 10px red;
+ box-shadow: 10px 12px 10px 10px red;
+} 
+
+h1
+{
+    text-shadow: 10px 12px 10px red;
+    text-shadow: inset 10px 12px 10px red;
+}
